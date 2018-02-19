@@ -1,2 +1,2 @@
 # git_github
-Sample Repository
+Sample Repository for tutorial purpose
